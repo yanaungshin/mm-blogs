@@ -1,0 +1,2 @@
+# mm-blogs
+Blogs project
